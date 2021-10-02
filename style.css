@@ -1,0 +1,20 @@
+.hidden{
+    display: none;
+}
+
+img{
+    width:100%;
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:-100;
+}
+
+#things{
+    text-align: center;
+    color: white;
+}
+
+li{
+    list-style-type: none;
+}
